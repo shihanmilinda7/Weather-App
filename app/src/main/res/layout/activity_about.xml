@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient"
+    android:orientation="vertical"
+    tools:context="com.example.myweather.About">
+
+    <TextView
+        android:text="Weather Application"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="40sp"
+        android:padding="5dp"
+        android:textColor="#010203"
+        android:layout_gravity="center"
+        android:textStyle = "bold"/>
+    <TextView
+        android:text="PH-3037"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:padding="10dp"
+        android:textColor="#010203"
+        android:layout_gravity="center"
+        android:textStyle = "bold"/>
+    <TextView
+        android:text="Mobile Application Development"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:padding="10dp"
+        android:textColor="#010203"
+        android:layout_gravity="center"
+        android:textStyle = "bold"/>
+
+    <TextView
+        android:text="Assignment - 5 (Final Assignment)"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="#010203"
+        android:padding="10dp"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/icon_ac3"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:src="@drawable/ic_launcher_background"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:layout_marginTop="5dp"
+        android:text="T. S. Milinda Ruberu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#010203"
+        android:layout_gravity="center"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:text="2017s16311"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:padding="10dp"
+        android:textColor="#010203"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:text="S13818"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:padding="10dp"
+        android:textColor="#010203"
+        android:layout_gravity="center"
+        android:textStyle = "bold"/>
+
+</LinearLayout>
+
+

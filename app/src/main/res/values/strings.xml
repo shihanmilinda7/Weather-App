@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="title">Do you need exit from the app ?</string>
+    <string name="Yes">OK</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Exit">Exit</string>
+</resources>
